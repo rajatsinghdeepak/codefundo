@@ -16,7 +16,7 @@ Every mobile is connected to its nearest base station. As every telecommunicatio
 
 # How will i try to apply
 
-I am planning to build a website which will have Heat maps with respect to the disaster’s time frame and to respect the privacy, data will be displayed only for adequate time frame(eg. 2 days before tsunami and 1 month after it)
+I am planning to build a website which will have Heat maps over a real geographical map with respect to the disaster’s time frame and to respect the privacy, data will be displayed only for adequate time frame(eg. 2 days before tsunami and 1 month after it)
 
 # Comparison with GPS
 
